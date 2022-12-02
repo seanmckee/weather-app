@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;900&family=Montserrat&display=swap');
+
+*{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    
+    
+}
+
+h1 {
+    
+    font-weight: 800;
+}
+
+.card {
+    box-shadow: -5px 5px 5px black;
+    background-color: #dbdbdb;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    color: black;
+    background: rgb(218,240,247);
+    background: linear-gradient(0deg, rgba(218,240,247,1) 0%, rgba(168,181,224,1) 100%);
+}
+
+
+
+.search-container {
+    margin: 20px;
+}
